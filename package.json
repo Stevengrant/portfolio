@@ -19,5 +19,6 @@
   "homepage": "https://github.com/Stevengrant/portfolio#readme",
   "dependencies": {
     "dotenv": "^8.0.0",
+    "express": "^4.17.1"
   }
 }
